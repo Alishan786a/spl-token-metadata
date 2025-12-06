@@ -2,6 +2,7 @@
   "name": "Thor Coin",
   "symbol": "THOR",
   "description": "Thor Coin — unstoppable power on Solana.",
+  "decimals":"9",
   "image": "https://raw.githubusercontent.com/Alishan786a/spl-token-metadata/caa98988723a0a9d91be75762680061e2c8ebc68/Bearish-CJ6fWoIE.png",
   "attributes": [],
   "extensions": {
